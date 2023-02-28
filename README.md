@@ -1,5 +1,5 @@
 - 👋 Hi there, I'm Zobam!  
-- I'm Zobam Okoli. I'm a Front-End Software Engineer by passion and an expat by choice living in Lagos, Nigeria.
+- I'm Zobam Okoli. I'm a Front-End Software Engineer by passion and an expert by choice living in Lagos, Nigeria.
 - 🌱 I’m currently learning ...
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me 
